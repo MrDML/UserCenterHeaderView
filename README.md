@@ -1,3 +1,3 @@
 # UserCenterHeaderView
 UserCenterHeaderView
-![Demo](https://github.com/MrDML/DMLPhotoBrowser/blob/master/photo.gif)
+![Demo](https://github.com/MrDML/UserCenterHeaderView/blob/master/headerView.gif)
